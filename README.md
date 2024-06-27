@@ -5,11 +5,11 @@
 **🌱 ASCII-IMAGE-ART package for converting images into ASCII character strings and ASCII character colored images.**
 
 
-<img src="./elephant.png?raw=true" width="100" height="100" />
-![Elephant ASCII Conversion](elephant.png)
-![Human](human_inverted.png)
-![Female ASCII Conversion](female.png")
-![Chicken](chicken_inverted.png)
+
+<img alt="Elephant ASCII Conversion" src="./elephant.png?raw=true" width="200" />
+<img alt="Human ASCII Conversion" src="./human_inverted.png?raw=true" width="200" />
+<img alt="Female ASCII Conversion" src="./female.png?raw=true" width="200" />
+<img alt="Chicken ASCII Conversion" src="./chicken_inverted.png?raw=true" width="200" />
 
 
 **Import**
