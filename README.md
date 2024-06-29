@@ -2,11 +2,14 @@
 # Ascii-Image-Art Readme
 
 
-**🌱 ASCII-IMAGE-ART package for converting images into ASCII character strings and ASCII character colored images.**
+**🌱 ASCII-IMAGE-ART package for converting images into ASCII character strings and ASCII character colored images. Added new AI module**
 
 
 <img alt="Elephant ASCII Conversion" src="https://raw.githubusercontent.com/txtasad/Ascii-Image-Art/main/elephant.png?raw=true" width="400" /> <img alt="Human ASCII Conversion" src="https://raw.githubusercontent.com/txtasad/Ascii-Image-Art/main/human_inverted.png?raw=true" width="200" /> <img alt="Female ASCII Conversion" src="https://raw.githubusercontent.com/txtasad/Ascii-Image-Art/main/female.png?raw=true" width="300" /> <img alt="Chicken ASCII Conversion" src="https://raw.githubusercontent.com/txtasad/Ascii-Image-Art/main/chicken_inverted.png?raw=true" width="200" />
 
+**Install**
+```pip install ascii-image-art```
+Package available at: <a href="https://pypi.org/project/ascii-image-art/#description">https://pypi.org/project/ascii-image-art</a>
 
 **Import**
 
