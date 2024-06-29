@@ -1,0 +1,97 @@
+  ...     ....  . ...... ....................    ......        .                     ..............    .......  ....
+  . .      ...   . ...... ...................  . .....         .                      ............      ... .      D
+   ..      ...    ......  ..................    ...... .       . .                    ...........                  D
+    .      ....     .....   ................ .  ........       . . .                   ......  .                .  D
+    .       ...    .  ...  .   ........ .. ..  . ...... ..   .  ...                    .    .                   .  D
+   ...      ..         ..    ........  .  ..   . ......  .      ..                       .                         .
+   ...      ...      . .. .   ...........A..     .......        ....  .   . .            .                         D
+   ...    . ...      . ..   . .DD........D...  . ..... ..       ...... . ...                .                   . ..
+   ...      ..      .  .................... .    ........       ........  ..                   .                  .D
+   ...     ........A........................ .   .. .. . .      . ....... .                                        D
+   .... ...........A....................... .    .......        .......                                           .D
+   .       ........ ..........D............       .... ..       ........    .                                     DD
+..........D ..................A..........D.       ...         . .... ...                                          DD
+...... ...A.. .  . ...........A...........D  .    ...        .  ....... .  .     .        .                    .  DD
+...............  ... ..DA A ..S...........A       ....          . .....  .    ..                               .  DD
+............DDDD.....DAAAAAAA ............A       ....          .. ...                .                        .  DD
+..A.........DAAA...AAAAADSDDD. ............       ... .          ...                  .                        .  DD
+..........DDDAAAA.ASAAAASASSSSAA. ..........      ..   .         DDSDDAD.      .                                  DD
+..........DSAAAASSASAAASASASSSS.DDA..D......      ..           SSSSSASSSSAD..                                     ..
+.........ADSASSAAASSASDADADSSSSASAAAAAD...D       ..         .AASAAAAAASASADDA                                    DD
+........DAAASSSASDSASDSSAASSSSSASAAAADDDDDA.      ..         AAAAAAAAAAAAAASSA .                                 DDA
+...A...DAAS.DAAASASAADADAASSSSSASSSSSSSSSSS.      ...       DAS.DDAASSSSAAAAAS .                                 DDD
+.......DDAADADSASSDSAAASSAASSSSASS.ASSSSSSAD      .....     .ASDDD...DDDAAAAA                                 .  DDD
+...D..ASDSA.ADSAASSSAASASSSSSSSSSSSSASSSSSSA      ..  ..   .S.DSSSDDDDDDAAAAA...                                 DDD
+..DDASDADSSSAASSS.DASD.SSSSSSSSSSSSSAA.SSSSA      ....      AADDAAA.SSAAAAAAA.                                   DDD
+.ADASSSDSSSSASSSSAADDDAASSSSSSSS.SSSSASDDD.A      .        DAD...D.DSAAASDAA.  ..                                DAD
+SSDSSSSASSSSASSSSSSADDASSSSSSSSS.SSSSASSDADS     . ..  .    SDDSD..DDDDD DA.   .                                 DDD
+SSASSSSSSSSSSSSSSSSSSSSSSSSSSSSSASSSSSSSSSSS       .       .ASAAAASAASSAAAA.   .  ..                             DDD
+SSSSSSSSSSSSSSSSSSSSSSASSSSSSSSSSSSSSSSSSSSS       . .  .  ASASDA.DSSSASAS     .....                            DDDD
+SSSSSAASAS.SSSSSSSSSSSAASSSSSSSSASSSSSSSSSSS.      . .    .ASAAS.SSASAAAA.     .....                            ADAD
+SD....ASSAASSASSSSSSSSASSSSSSSSSSSSSSSSSSSSS      ..   ..AAAAAAAAAAAAAAAAS    ......                         .  DDDD
+SD...AD.SASSSSSSSSASSSASSSSSSSSSSSSSSSSSSSSS.      .    .DDAAAAAAAAAAAAAAAA.  .....                             DDAD
+AADD.A..DASASAASSASSASASSSSSSSSSSAASAAAAAAASS      ..  DASSAAAAAAAAAAAAAAAAAS .....                             DDAA
+SA...D.DDASSSASASAASSSSSSSSSSSSSS.SAAADAAAASS      AAASSSSSSAAAAAAAAAAAAAAAASAAAA.                              ADAA
+....................... ..........DD.DDDDD.D.    AAASSSSSSAASAAAAAAAAAAAAAAAASSSAAAD                            AAAD
+............................... .. . .......    SSSSSSSSSAAAASSSADASAAAAAAASSSSSSSSS                            AAAA
+............................. .. .  . ......    SASSSSSSSSAAS..D..AAAAAAAAAASAASAAAA.                          DSADD
+        ................. .....  . ........    SSASSSSSSSSSSS.D.D..AAAAAAAAAAASASAAA..                         DAAAA
+        ............... .  ....       .....    SSSSSSSSSSSSAA....AASSAASAAASAAAAAAAA.                          AADDD
+        ........................   ..  . .    .SSASSSSSSSSSSSD...ASAAASSAAAAAAAAAAAS.                       .  DDAAD
+        .................. ..... .     .      AASASSSSSSSSSAADA. AASAAASAAAAAAAAAAAS.                       .  DDAAA
+         .......................  ..   .      SSSASSSASSSASAS...AASAAAASAAAAAAAAAAAA.                          AAADA
+         ................... ... ...  .       AAAAASSAASAASAS..AASAAAAAAASAAAAAAAAAS.                          AASDS
+         ...........................   ..    SAAAAASASSAAASAAA.ASAAAAAAAAAAAAAAAAAAS.                          AAADA
+         S.D....................... .. ..   SSAAAAASSSASSAAAAAASASAAAAAAAAAAAAAAAAAA.                         .DADDD
+          DD..A................... ...    . SSAAAAAAAASASAAAASSAAASAAAAAAAAAAAAAAAAA.                         AAADAA
+     .. ..DD........................ ..  . AAAAAAAAAAASAAAAAASAAAAAAAAAAAAAAAAAAAASA.                         ADAADA
+..........AD..D.....................   ... AASAAAAAASSSAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.                         AAAAAA
+..........ASD..A...........................SASASAAA ASAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.                         ADAAAA
+...........ADDDDDDDDD......................AAAAAAAAASAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.                      .  AADAAS
+..SSSAAAADAADDDDDDDDDDDDD..................AAASAAAAASAAAASAAAAAAAAAAAAAAAAAAAAAAAAAD                       .  AADASD
+.DDSAAADDDDADAAAAAD.......DD...............SSSSSSSAASAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA..                         ADAASA
+. .D.ASAAAAAAAAAA..D........DAD.............SSSSSSSAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.D.                         ADDDDA
+A AADAAAAADDDD...DADSAAAASS.DDSD............SSSSSSSAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADD                          .DDAD.D
+SDADDDDDDADDDDDD.D..SASADDADDDD............. SSSSSSSAAAAAAAAAAAAASSAAAAAAAAAAAA.DDD.                .        SDDDADA
+ADDDDDADDADDADDD...DD....DAAADDDD............ASSSSSSAD.AAAAAAAASAAAAAAAAAAAAAAADDDD .                        DAAAADA
+DDDDAADAAAAADDDDD DDD..DD....DDDS.............SSSS.D.DD.DAAAAADAAASAAAAAAAAAAAADDDD                          DAAADAA
+DAAAASAAAAAADAADD...... DDDDADDDDAS...........ASS.DDA.DDA.DD....ASAAAAAAAAAAAAADDD.                          AAAAAAA
+AAAAAASASAAASAAAD. .DDD     ..DDDD........... AAAADDDDDDDDDDD....AAAAAAAAAAAAAA.DD.                          DAAADAA
+AAAAAASSSSSAASADDDDD  .      DDD.AA......S .AAAAAASDDDDDDDDDDDDDDDAAAAAAAAAAAAAADD.                          AAADAAA
+ASASASSSSSSSASAADDDDD.D    D.DDDDA.A.....D...AAAAAAAAADAAAAAAASSAAAAAAAAAAAAAAAADD                        .  DDAAAAA
+SSSSSSSSSSSSSSAADDDDDDDDDDD..D.DDAD.....A.  .AAAAAAAAADDAAADAAAAAAAAAAAAAAAAAAAADD                        .  DDDAAAA
+ASSSSSSSSSSSSSDDDD..D.ADDDDDDDDDDD......A.. ..AAAAAAAAAA....AAAAAAAAAAAAAAAAAAAADD                  .        DDDAAAA
+SSSSSSSSSSSSSADADDDDDDADDDDDDD.DD.......D .DDD.AAAAAAAAD.....AAAAAAAAAAAAAAAAAAADD                          .DDAAAAA
+SSSSSSSSSSAASAAD.AD.DD.A.DDAADAS.... ..A.. ......AAAA....... .AAAAAAAAAAAAAAAAAADD                          AAAAAAAA
+SSSSSSSSSSSAASSASADDDDSDDDASAA.  .... .A... ..... .......D.. ..AAAAAAAAAAAAAAAADDD  .                       AAAAAAAA
+ASSSSSSSAASSSSSSSAAAAAAA.AASSS.......  AAD  DD...........D.... ..AAAAA.....AAAAADD                          DAAAAADD
+SAAASSSSSSSSSSSSSSSSSSSDDAASSS............  AAA.........DDD.    .. .   ....SAAAADD                          AADAAAAD
+SSSSSSSSSSSASAASSSSSSSADDSSSSS..........................DAA .    ..  ......SSAADDD                          DAAAADDD
+SSSSSSSSSSSASSSSSSSSSSSSDSD.AS..........................DDA        . .....ASAAADDD                          AAAAADDD
+SSSSSSASSSSSASSASSSSDDDADSD..AA..........................DD.      ......A.AAAADDDD                          AAADAAAD
+SSSSSASSSSSSSSSSSSSDDSSDDDASSAS................A........D.D         ...AAAAAA.D  D                       .  ADADDDDD
+SSASSSSSSSSSSSSSSAAAADASAAAAAAA  ............SAAA ......DDD        ....  DSA......                       .  DAADAAAA
+SASASSSSSSASSSSSSSADDDSSSAAAAAS ...D. ......AAAAA.......DDD        ...ADDD.DD   ..                          ADAAAAAD
+SASASSSSSSSSSSSSDSASSSSSSSSSSSSS.. ..   ...AAAASD.......DDD      . ...DDDDDDDDDD..                         DAAAAAAAA
+SSSASSSSSSSSSSASDSSSSS..AASSSAAA ......  .AAAAAAA......DDD ...   . ...DDDDDDDDDDD.                         AAAADDDAA
+SASSSSSSSSSSSSSSAASSS...ADSSASASS. ...  .DS SSSSA......DDD    .  ....ADDDDDDDDDD..     .                   SAADAADAD
+ASASSSASSASASSSAASSSA ..AD SSSSSSD   .... SSAASAA........   .     ...DADDDDDDDDD..     .                   DADDDAAAA
+SASSAAASSSASSA AASS  ..... DASSASS........S.SSASS  ...D         . ...ADADDDDDDDD..  .                      AAAAAAAAA
+AAAAASSSSSA . AAASS  ... .D.ASSSASS.......SSAASASS....          ....AAADDDDDDDDD..   .                     DDDAAAAAA
+AAAASSSS  ...SAASS   .D  AA. AASSSS.......SDSSSSSS... .   .  ..  ...SDDDDDDDDD....   .. .                  AAAADAADD
+SAAAS .. .   AAAA...  ...SA AAASSAASD.....SSAA..SS.            ....A..D..DD.DDD...  ..    .                AAAAAADAA
+AS. ..  ..  AASAA      . .A  AAASSAS... . AASSSA .  .............AS.....D.........  ... .               .  AAAAADDDA
+..   . .   .ASSS  ... ... A ..SSSSASS.  ..SAAD . .. .        .SAADA......D........  . .                 .  AAAAAADDD
+        . .AASAA ... .. . D  ..SSSSSS   ..SA........... .. .ASAAAD...  ... ....... ..  .  ..            . .AAAAAAADA
+  ....    AASAA .. ...........DSSASASA ... ...   .  ... ..ASASAAA.D.D ..... . .. . ... ... ..     . . .   AAAAADDADA
+ .  .     ASAS ..      .......DDAASSSSD. ....           ..DAASASD.   ... .. .  ... ... .....    .  . ...  AAAAAADDDA
+       D DDAAA    ....     ....D.AASSSSAD. ............D.DDSAASS. .......... .  D. ....  ..   . ..  ....  AAAAAAADDA
+   .    ADSSA ....    ....D......AASSASAA... ..   ..DDD...DSAAAA. ......  ..  .. . .........      ..  ..  ADAAAAADAD
+  ... . DSSS.  ...  ........   .. AASSSS.A... ....SDD.....ADDD...... . D.  . .  ..  ..... .          ...  AAAAAAAAAD
+       DDSSA. ..  .............  .AASSSSSDA...DDAAAAAAAAAADD..D.DDDD.. ..  . ..... . .. ..  . ... ......  AAAAAADAAA
+      .DSSS  . .........  ...    . AASSSSDDSAAAAAAAAAAASAAD................ . ...  ........... ..... ..   AAAAAAAADA
+.     .DDDD   .........   .    .  .AAASAAA.DSAAASSAAAASD.D...........D.......   .   ...... ....... .....  AAAAAAAAAA
+   ..  DAASD........    .. ..  .   .DDAAS....A.AAAAAAAD.. ..D....... .    .  . ....   ......   .........  AAAAAAAAAA
+  .   DSS..D.....   ..      .. ..    .ASSD...DAAAAAAAD..    ....D..   .... . ..   ....    ...  .... ..... AAAAADAAAD
+...  .DS.DD.. ...    ...       .    . ASSADD..DAAAAA.. . .    ..  ..  .. ..  ... .....  . .   ............AAAAAAAADA
+ .    SDD.           ...... . . .   . .ASD.D.. ..AAA .. ..  .. ... D . ... ....   ...... .    .   ...... DAASAAAAAAA
